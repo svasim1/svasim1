@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, my name is Svante Ericsson!</h2>
 
-<!--
-**svasim1/svasim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+You can read more about me on my [personal portfolio](svasim.github.io).
 
-Here are some ideas to get you started:
+###
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="25" alt="microsoft-outlook logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=svasim1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=svasim1" height="150" alt="languages graph"  />
+</div>
