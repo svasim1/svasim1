@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, my name is Svante Ericsson!</h2>
 
 ###
-You can read more about me on my [personal portfolio](svasim.github.io).
+You can read more about me on my [personal portfolio](https://svasim1.github.io/).
 
 ###
 <div align="left">
