@@ -15,6 +15,11 @@ You can read more about me on my [personal portfolio](https://svasim1.github.io/
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svasim1&repo=mdu-python-dva128&theme=dark" />
     </a>
   </div>
+  <div>
+    <a href="https://github.com/svasim1/cybrawl">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svasim1&repo=cybrawl&theme=dark" />
+    </a>
+  </div>
 </div>
 
 You can read more about my projects on my [personal portfolio](https://svasim1.github.io/).
