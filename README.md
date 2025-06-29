@@ -7,29 +7,6 @@ I am a committed and curious problem solver who is driven by the possibilities o
 
 During high school, I have been involved in building everything from websites, apps and AI bots to games, drones and physical systems. Examples of projects I have worked on are an AI chatbot with RAG backend in Python, a surgeon simulator developed in collaboration with Region Västmanland, and a radio-controlled vehicle that can be controlled over the network. I was also a web developer in RiksdagsTracker UF, where we took 4th place in the JA company of the year in Västmanland 2025. Last but not least, I have received two awards during high school.
 
-You can read more about me on my [personal portfolio](https://svasim1.github.io/).
-
-## Projects
-<div>
-  <div>
-    <a href="https://github.com/svasim1/driverbot">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svasim1&repo=driverbot&theme=dark" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/svasim1/mdu-python-dva128">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svasim1&repo=mdu-python-dva128&theme=dark" />
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/svasim1/cybrawl">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svasim1&repo=cybrawl&theme=dark" />
-    </a>
-  </div>
-</div>
-
-You can read more about my projects on my [personal portfolio](https://svasim1.github.io/).
-
 ## Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svante-ericsson-2025ab23b/)
 
