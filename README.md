@@ -1,7 +1,7 @@
 # Hi 👋, my name is Svante Ericsson!
 Innovative technology developer with a focus on future solutions.
 
-I have recently graduated from the technology excellence program at Hitachigymnasiet (formerly ABB-gymnasiet) in Västerås, where I had the opportunity to deepen my knowledge in programming, AI, IoT, cloud services and modern product development.
+I have recently graduated from the technology specialization program at Hitachigymnasiet (formerly ABB-gymnasiet) in Västerås, where I had the opportunity to deepen my knowledge in programming, AI, IoT, cloud services and modern product development.
 
 I am a committed and curious problem solver who is driven by the possibilities of technology. My passion for understanding, creating and improving makes me constantly want to learn more and develop. I am also a team player who thrives on collaboration, and combines my technical focus with structure, communication and accuracy to contribute to both a good atmosphere and strong results.
 
